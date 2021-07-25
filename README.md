@@ -1,8 +1,5 @@
 # Appointment Scheduling
 
-## Duration
-Around 60-90 minutes (please make sure to send across your code around the 90-minute mark at the most).
-
 ## Motivation
 Clients need to be able to schedule an appointment with their trainer through an HTTP API.
 
